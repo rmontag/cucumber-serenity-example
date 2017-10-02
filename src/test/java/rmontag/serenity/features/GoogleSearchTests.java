@@ -11,7 +11,7 @@ import net.thucydides.core.annotations.Managed;
  * File should be in package that we specified in failsafe maven plugin.
  * 
  * A Scenario runner.
- * @author ex532
+ * @author rmontag
  *
  */
 @RunWith(CucumberWithSerenity.class)

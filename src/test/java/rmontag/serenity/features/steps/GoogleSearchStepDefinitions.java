@@ -7,7 +7,7 @@ import net.thucydides.core.annotations.Steps;
 import rmontag.serenity.features.steps.serenity.GoogleSearchSteps;
 
 /**
- * @author ex532
+ * @author rmontag
  * Use @Steps to add a layer of abstraction between the "what" and the "how" of our acceptance tests.
  * Step definitions describe "what" the acceptance test is doing, in clear business domain language (Cucumber).
  * So we say "I search for 'Serenity BDD'", not "user enters 'Serenity BDD' into google search field and clicks on the search button".

@@ -9,7 +9,7 @@ import rmontag.serenity.pages.GoogleResultsPage;
 import rmontag.serenity.pages.GoogleSearchPage;
 
 /**
- * @author ex532
+ * @author rmontag
  * Step library, steps are annotated with @Step
  * The step library methods do not call Selenium Web Driver directly, but rather interact with Page Objects
  *

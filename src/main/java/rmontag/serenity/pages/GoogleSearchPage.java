@@ -8,7 +8,7 @@ import net.thucydides.core.annotations.DefaultUrl;
 import net.thucydides.core.annotations.WhenPageOpens;
 
 /**
- * @author ex532
+ * @author rmontag
  * Page Objects hide the WebDriver implementation details about how elements on a page are accessed and manipulated behind simple methods.
  * 
  * WebDriver method open() opens page according to @DefaultUrl annotation.

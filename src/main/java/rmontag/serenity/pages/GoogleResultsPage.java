@@ -10,7 +10,7 @@ import net.serenitybdd.core.pages.PageObject;
 import net.thucydides.core.annotations.WhenPageOpens;
 
 /**
- * @author ex532
+ * @author rmontag
  * Page Objects hide the WebDriver implementation details about how elements on a page are accessed and manipulated behind simple methods.
  *
  */
